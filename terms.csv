@@ -1,2 +1,21 @@
+ablation study 消融实验
+agent 智能体
+anchor 锚点或锚框
+anneale 退火
+batch 批次
+ensemble model 集成模型
+epoch 代
+fine tune 微调
+ground truth 真值
+homogeneous 齐次
+IOU 交并比
+monotonous 单调的
 multimodal 多模态
-anchor 锚框
+non-trivial 非平凡
+off-the-shelf 现成的
+receptive field 感受野
+ROI 感兴趣区域
+short connection 跳层连接
+
+
+
