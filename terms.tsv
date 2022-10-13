@@ -1,0 +1,96 @@
+English	Chinese
+ablation study	消融实验
+actor	智能体
+agent	智能体
+anchor	锚点或锚框
+anneale	退火
+aperiodic	非周期的
+approximate inference	近似推断
+asynchronous	异步
+atrous convolution	空洞卷积
+back-off	回退
+bandit	赌博机/老虎机
+batch	批次
+belief network	信念网络
+bias	偏差/偏置
+biased	有偏
+bottleneck	瓶颈
+channel-wise	沿通道的
+confidence	置信度
+context	上下文
+data augmentation	数据增强
+discriminator	判别器
+early stopping	早停
+edge	边
+empirical risk	经验风险
+ensemble model	集成模型
+epoch	代
+fine tune	微调
+gabor function	Gabor函数
+gated	门控
+gater	选通器
+generalize	泛化
+generalized lagrange function	广义拉格朗日函数
+generalized linear model	广义线性模型
+graph	图
+ground truth	真值
+hamming	汉明
+Hessian	Hessian
+Hold-Out	留出法
+homogeneous	同质/齐次
+homogenization	同质化
+hyperplane	超平面
+I.I.D.	独立同分布
+identity function	恒等函数
+identity matrix	单位矩阵
+image	图像
+Intra-Cluster	簇内
+Intrinsic Value	固有值
+IOU	交并比
+Isotropic	各向同性
+K-Fold	k 折
+K-Means Clustering	k-均值聚类
+K-Nearest Neighbor	k-近邻
+Kd Tree	Kd 树
+Kernel Density Estimation	核密度估计
+Kernel Function	核函数
+L-BFGS	L-BFGS
+latent	潜在
+latent layer	潜层
+latent variable	潜变量/隐变量
+LBP	局部二值模式
+Leave-One-Out	留一法
+likelihood	似然
+Lipschitz	Lipschitz
+local	局部
+Long-Range	长期
+Long-Term	长期
+Mahalanobis distance	马哈拉诺比斯距离
+manifold	流形
+mask	掩码
+monotonous	单调的
+multimodal	多模态
+non-trivial	非平凡
+odds	几率
+off-the-shelf	现成的
+one-hot	独热
+orthogonal	正交
+periodic	周期的
+plane	平面
+Quadratic Loss Function	平方损失函数
+Quadratic Programming	二次规划
+rank	秩
+row	行
+receptive field	感受野
+ROI	感兴趣区域
+short connection	跳层连接
+sparse	稀疏
+spectral clustering	谱聚类
+spectral radius	谱半径
+stationary	平稳的
+stationary point	驻点
+stride	步幅
+tempering	回火
+unbiased	无偏
+Zero-Centered	零中心化的
+Zero-Shot	Zero-Shot
