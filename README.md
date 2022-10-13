@@ -19,6 +19,7 @@
 
 ![百度翻译-with术语库](./images/dlterms4chinese_02.jpeg)
 
+术语库保存在`./terms.tsv`中。
 
 # 欢迎纠错和提交术语~
 
