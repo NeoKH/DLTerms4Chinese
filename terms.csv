@@ -17,9 +17,12 @@ bottleneck 瓶颈
 channel-wise 沿通道的
 confidence 置信度
 context 上下文
+data augmentation 数据增强
+discriminator	判别器
 ensemble model 集成模型
 epoch 代
 fine tune 微调
+graph 图
 ground truth 真值
 homogeneous 齐次
 IOU 交并比
