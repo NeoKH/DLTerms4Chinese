@@ -2,11 +2,22 @@
 
 很多翻译工具逐渐支持添加术语库，比如DeepL、有道词典9、火山翻译、百度翻译等。
 
-创建本仓库的目的是收集深度学习术语中**往往被翻译软件翻译错误**的术语（能被正确翻译的术语和不常用的术语不收录其中），比如`agent`几乎在所有的翻译软件里都翻译成`代理`，但更通顺的翻译应该是`智能体`。恰当的翻译，可以让阅读更顺畅。
+创建本仓库的目的是收集深度学习术语中**往往被翻译软件翻译错误**的术语（能被正确翻译的术语和不常用的术语不收录其中），比如`agent`几乎在所有的翻译软件里都翻译成`代理`，但更通顺的翻译应该是`智能体`。比如下图的示例中，只有腾讯翻译正确翻译成了“智能体”。
+![图片1](./images/dlterms4chinese_01.jpeg)
 
 欢迎纠错和提交遗漏的术语。
 
 更完整的术语库可以查看机器之心的GitHub仓库：[Artificial-Intelligence-Terminology-Database](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology-Database)
+
+# 添加术语库效果展示
+
+以百度翻译为例，还是上图的英语内容，添加术语库之前：
+
+![图片2](./images/dlterms4chinese_03.jpg)
+
+添加术语库之后：
+
+![图片3](./images/dlterms4chinese_02.jpeg)
 
 
 # 参考链接
