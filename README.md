@@ -4,7 +4,7 @@
 
 创建本仓库的目的是收集深度学习术语中**往往被翻译软件翻译错误**的术语（能被正确翻译的术语和不常用的术语不收录其中），比如`agent`几乎在所有的翻译软件里都翻译成`代理`，但更通顺的翻译应该是`智能体`。恰当的翻译，可以让阅读更顺畅。
 
-欢迎提交遗漏的术语。
+欢迎纠错和提交遗漏的术语。
 
 更完整的术语库可以查看机器之心的GitHub仓库：[Artificial-Intelligence-Terminology-Database](https://github.com/jiqizhixin/Artificial-Intelligence-Terminology-Database)
 
